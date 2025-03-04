@@ -1,6 +1,6 @@
 ---
 title: (un)marked lives of Carribean and African Amercican women
-layout:page
+layout: page
 permalink: /kwon.html
 ---
 
